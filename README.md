@@ -1,4 +1,4 @@
-<img src = "https://github.com/Dheeraj-2205/Dheeraj-2205/blob/main/Dheeraj%20(1).png" width = 800 height = "250">
+
 
 <h1 align="center">Hi 👋, I'm Dheeraj Joshi</h1>
 <h3 align="center">I'm Dheeraj Joshi and I am Full Stack Web Development I really enjoy the learning different languages and frameworks like react as well as now I am learning node and express</h3>
