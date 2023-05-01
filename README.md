@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **djsays124@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TqxOUITkvgvxp1F7GmNYOw1W1X3oL6w4/view?usp=share_link](https://drive.google.com/file/d/1LKHtCCp8IJtin5HTZnDasJrf-lYhGogK/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LKHtCCp8IJtin5HTZnDasJrf-lYhGogK/view?usp=share_link](https://drive.google.com/file/d/1LKHtCCp8IJtin5HTZnDasJrf-lYhGogK/view?usp=share_link)
 
 - ⚡ Fun fact **I am very well know about the International relationship and Geopolitics**
 
