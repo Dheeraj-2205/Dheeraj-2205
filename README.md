@@ -20,8 +20,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/dheeraj-joshi-b07916231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dheeraj-joshi-b07916231/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/dheeraj-2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dheeraj-2205" height="30" width="40" /></a>
-<a href="https://instagram.com/dheeraj.2608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dheeraj.2608" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dheeraj-2205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dheeraj-2205" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
