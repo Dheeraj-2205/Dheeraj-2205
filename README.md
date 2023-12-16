@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Dheeraj Joshi</h1>
 <h3 align="center">I'm Dheeraj Joshi and I am Full Stack Web Development I really enjoy the learning different languages and frameworks like react as well as now I am learning node and express</h3>
-<img align = "right" width = 400 src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRt_AtbY8xFVNAVsAealDog_ZmNBq8mO8F7w&usqp=CAU">
+<img align = "right" width = 400 src = "https://i.pinimg.com/originals/b8/b7/fa/b8b7faa068cb612f21a7f7268313064b.png">
 
 - 🌱 I’m currently learning **Express , Node**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **djsays124@gmail.com**
 
-- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1DAqYTbP55gzlMwWrhfLHF-wBtbIdFTmv/view?usp=drive_link)
+- 📄 Know about my experiences [in my resume](https://drive.google.com/file/d/1w6Mgjvg27pxSOqSS49U4_InjoAUGpO__/view?usp=sharing)
 
 - ⚡ Fun fact **I am very well know about the International relationship and Geopolitics**
 
